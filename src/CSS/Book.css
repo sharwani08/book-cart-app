@@ -1,0 +1,11 @@
+.book {
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.book-cover {
+    float: left;
+    padding: 1rem;
+}
